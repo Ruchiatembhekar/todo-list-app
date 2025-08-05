@@ -57,16 +57,6 @@ When you run the application, you'll see a menu with the following options:
 - **Error Handling**: Try-catch blocks for file operations and user input
 - **Data Structures**: Lists for storing tasks, enumeration for numbering
 
-### Interview Questions Addressed:
-
-1. **File Operations**: Uses `open()` with context managers (`with` statement)
-2. **File Modes**: Implements both read ('r') and write ('w') modes
-3. **String Methods**: Uses `.strip()` to remove whitespace from input and file lines
-4. **List Operations**: Demonstrates `append()`, `pop()`, `insert()`, and indexing
-5. **Context Managers**: All file operations use `with` statements for proper resource management
-6. **File Processing**: Implements line-by-line file reading with proper handling
-7. **Error Handling**: Handles FileNotFoundError when file doesn't exist
-
 ## Code Structure
 
 ```
@@ -118,3 +108,4 @@ This project demonstrates:
 - Persistent data storage
 
 ---
+
